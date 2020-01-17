@@ -5,6 +5,7 @@ public class UserRunner {
 	public static void main(String[] args) {
 
 		User u1 = new User();
+		System.out.println("bruh");
 		u1.setName("XXXX XXXXXXX");
 		u1.setAge(99);
 		u1.setEmail("XXXX.XXXXXXX@ucc.on.ca");
